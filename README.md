@@ -13,4 +13,6 @@ To install docker community version - for docker installation please refer follo
 		vi. sudo su - postgres
 	   vii. psql
 
-After setting up docker/psql, Shell scripts can be used as-is
+After setting up docker/psql, Shell scripts can be used as-is.
+
+Please feel free to reach out to me for any installation issue for any of the dependency....
