@@ -1,6 +1,6 @@
 Given scripts were built during the youtube video series & all videos related to this repository can be reffered on https://www.youtube.com/watch?v=rMDzQr1BAvM&list=PLoVvAgF6geYNezoMMrpUsX9mpiSNWRHNX 
 
-Pre-requisities for executing these shell scripts are as follows -
+Pre-requisities for executing these shell scripts are DOCKER & POSTGRESQL (psql) -
 docker community version - for docker installation please refer following video : https://www.youtube.com/watch?v=W9cT82lgwRQ
 	
 	1. To install psql on ubuntu use following commands -
