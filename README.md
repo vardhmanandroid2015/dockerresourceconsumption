@@ -14,5 +14,3 @@ To install docker community version - for docker installation please refer follo
 	   vii. psql
 
 After setting up docker/psql, Shell scripts can be used as-is
-
-	
